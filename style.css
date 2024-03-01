@@ -1,0 +1,71 @@
+h1{
+    color: rgba(224, 26, 26, 0.952);
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 100px;
+}
+
+p{
+    font-size: 40px;
+    font-family: Verdana,Geneva, Tahoma, sans-serif;
+}
+img{
+     width: 500px;
+    text-align: center;
+    align-items: center;
+    margin-top: 500px;
+    border-radius: 500px;
+    height: 500px;
+}
+
+.yo{
+    width: 500px;
+    
+    text-align: center;
+    align-items: center;
+    margin-top: 500px;
+    
+}
+div{align-items: center;
+    text-align: center;
+}  
+body{
+    background-image: url(https://www.pexels.com/es-es/video/imagenes-aereas-de-las-olas-del-mar-corriendo-hacia-la-orilla-3546903/);
+}
+body {
+    position: relative;
+    margin: 0;
+  }
+  .sect {
+    width: 100%;
+    min-height: 500px;
+  }
+  #sect1,
+  #sect3 {
+    background-color: #3333337d;
+    color: #fff;
+  }
+  #sect2 {
+    background-color: #dddddd7d;
+    color: #333;
+  }
+  
+  video {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 105%;
+    min-height: 100%;
+    transform: translateX(calc((100% - 100vw) / 2));
+    z-index: -2;
+  }
+  h1 {
+    margin: 0;
+    padding-top: 3rem;
+    padding-left: 2rem;
+  }
+  h2 {
+    margin: 0;
+    padding-top: 3rem;
+    padding-left: 2rem;
+  }
